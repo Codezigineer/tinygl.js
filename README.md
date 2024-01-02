@@ -1,3 +1,8 @@
+Shaders!!!
+========
+
+Shaders are on the roadmap! 
+
 TinyGL.js
 =========
 
